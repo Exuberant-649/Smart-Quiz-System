@@ -1,0 +1,13 @@
+q1) What is 2+2?
+a) 3
+b) 4
+c) 5
+d) 6
+b
+
+q2) Capital of India?
+a) Mumbai
+b) Delhi
+c) Chennai
+d) Kolkata
+b
