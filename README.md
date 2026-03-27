@@ -30,8 +30,8 @@ A console-based quiz application developed in C using file handling. This system
 
 ## ▶️ How to Run
 - Compile and run using:
-gcc main.c -o quiz  
-./quiz
+  gcc main.c -o quiz  
+  ./quiz
 
 gcc main.c -o quiz  
 ./quiz
